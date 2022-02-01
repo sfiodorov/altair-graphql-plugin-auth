@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "altair-graphql-plugin-auth",
+    "version": "1.0.1",
+    "display_name": "Altair auth",
+    "description": "adds auth header",
+    "author_email": "sss@hey.com",
+    "author": "Slavtey",
+    "plugin_class": "AltairAuthPlugin",
+    "scripts": [
+    ]
+  }
