@@ -1,0 +1,13 @@
+{
+    "name": "altair-graphql-plugin-auth",
+    "version": "1.0.1",
+    "description": "auth altair",
+    "scripts": {},
+    "main": "index.js",
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sfiodorov/altair-graphql-plugin-auth.git"
+    },
+    "devDependencies": {}
+}
